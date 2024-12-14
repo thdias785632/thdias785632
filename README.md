@@ -4,7 +4,9 @@
 
  <h1 align="left">Thiago Dias</h1>
 
- Tenho 22 anos e sou profissional na área de Desenvolvimento Web, formado na Kenzie Academy Brasil em desenvolvimento Full-Stack. Apaixonado pela área pelo fato de que a tecnologia transforma vidas e permite a igualdade. Também estou na graduação de Bacharel em Ciência e Tecnologia na Universidade Federal do ABC, onde pretendo cursar Engenharia de Energia.
+ Tenho 24 anos e sou profissional na área de Desenvolvimento Web, formado na Kenzie Academy Brasil em desenvolvimento Full-Stack. Apaixonado pela área pelo fato de que a tecnologia transforma vidas e permite a igualdade. Também estou na graduação de Bacharel em Ciência e Tecnologia na Universidade Federal do ABC, onde pretendo cursar Engenharia de Energia.
+
+ *Minha conta original é thdias00, porém após perde-la uso essa.
  
  <p align="center">
   <img src="https://user-images.githubusercontent.com/88336360/176511215-33bd56db-8727-4b49-a304-4d3a9a203b50.png" width="350">
