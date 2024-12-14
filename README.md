@@ -6,7 +6,7 @@
 
  Tenho 24 anos e sou profissional na área de Desenvolvimento Web, formado na Kenzie Academy Brasil em desenvolvimento Full-Stack. Apaixonado pela área pelo fato de que a tecnologia transforma vidas e permite a igualdade. Também estou na graduação de Bacharel em Ciência e Tecnologia na Universidade Federal do ABC, onde pretendo cursar Engenharia de Energia.
 
- *Minha conta original é thdias00, porém após perde-la uso essa.
+ <b>Minha conta original é thdias00, porém após perde-la uso essa.</b?
  
  <p align="center">
   <img src="https://user-images.githubusercontent.com/88336360/176511215-33bd56db-8727-4b49-a304-4d3a9a203b50.png" width="350">
@@ -29,13 +29,24 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 </br>
 
-### Estatísticas do GitHub:
+### Estatísticas do GitHub thdias00:
 
 <p align="center">
  <a href="https://github.com/thdias00">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thdias00&show_icons=true&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thdias00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thdias00&layout=compact&langs_count=8&theme=algolia"/>
+ </a>
+</p>
+</br>
+
+### Estatísticas do GitHub thdias785632:
+
+<p align="center">
+ <a href="https://github.com/thdias785632">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thdias785632&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thdias785632&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thdias785632&layout=compact&langs_count=8&theme=algolia"/>
  </a>
 </p>
 </br>
